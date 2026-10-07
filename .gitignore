@@ -1,0 +1,48 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Build output
+artifacts/
+**/artifacts/
+**/bin/
+**/obj/
+
+# Runtime uploads and generated files
+backend/DigitalLearningQA.API/Storage/
+backend/DigitalLearningQA.Domain/3. Template-BaoCao-TTTN.docx
+
+# React
+dist/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# SQL LocalDB
+*.mdf
+*.ldf
+
+# User files
+*.user
+*.suo
+
+# Publish
+publish/
+
+# OS
+Thumbs.db
+.DS_Store
